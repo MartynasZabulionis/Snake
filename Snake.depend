@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1482140484 source:c:\users\songokas\saved games\namudarbas\main.c
+	"con_lib.h"
+	"logger.h"
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<conio.h>
+	<assert.h>
+
+1480237443 c:\users\songokas\saved games\namudarbas\con_lib.h
+
+1480237403 source:c:\users\songokas\saved games\namudarbas\con_lib.c
+	"con_lib.h"
+	<stdio.h>
+	<stdlib.h>
+	<sys/select.h>
+	<termios.h>
+	<time.h>
+	<unistd.h>
+	<signal.h>
+	<stdio.h>
+	<windows.h>
+
+1482092632 c:\users\songokas\saved games\namudarbas\save_to_file.h
+
+1482084473 source:c:\users\songokas\saved games\namudarbas\save_to_file.c
+	<stdio.h>
+	<stdlib.h>
+	"con_lib.h"
+	"save_to_file.h"
+
+1482129749 c:\users\songokas\saved games\namudarbas\logger.h
+
+1482132281 source:c:\users\songokas\saved games\namudarbas\logger.c
+	<stdio.h>
+	<stdarg.h>
+	<time.h>
+	<string.h>
+	<stdlib.h>
+	"logger.h"
+
+1480241003 source:c:\users\songokas\saved games\snake zaidimas\con_lib.c
+	"con_lib.h"
+	<stdio.h>
+	<stdlib.h>
+	<sys/select.h>
+	<termios.h>
+	<time.h>
+	<unistd.h>
+	<signal.h>
+	<stdio.h>
+	<windows.h>
+
+1480241043 c:\users\songokas\saved games\snake zaidimas\con_lib.h
+
+1482135881 source:c:\users\songokas\saved games\snake zaidimas\logger.c
+	<stdio.h>
+	<stdarg.h>
+	<time.h>
+	<string.h>
+	<stdlib.h>
+	"logger.h"
+
+1482133349 c:\users\songokas\saved games\snake zaidimas\logger.h
+
+1486406967 source:c:\users\songokas\saved games\snake zaidimas\main.c
+	"con_lib.h"
+	"logger.h"
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<conio.h>
+	<assert.h>
+

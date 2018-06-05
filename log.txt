@@ -1,0 +1,28 @@
+[Tue Jun 05 12:23:40 2018] [C:\Users\Songokas\Saved Games\Snake zaidimas\main.c][line: 158] Nustatymai uzkrauti.
+[Tue Jun 05 12:23:40 2018] [C:\Users\Songokas\Saved Games\Snake zaidimas\main.c][line: 489] Ijungtas pagrindinis meniu.
+[Tue Jun 05 12:23:42 2018] [C:\Users\Songokas\Saved Games\Snake zaidimas\main.c][line: 933] Paspaustas naujo zaidimo meniu
+[Tue Jun 05 12:23:43 2018] [C:\Users\Songokas\Saved Games\Snake zaidimas\main.c][line: 144] Labirintas 51 uzkrautas.
+[Tue Jun 05 12:23:43 2018] [C:\Users\Songokas\Saved Games\Snake zaidimas\main.c][line: 783] Prasideda zaidimas.
+[Tue Jun 05 12:23:43 2018] [C:\Users\Songokas\Saved Games\Snake zaidimas\main.c][line: 607] Atnaujinti taskai: 0.
+[Tue Jun 05 12:23:43 2018] [C:\Users\Songokas\Saved Games\Snake zaidimas\main.c][line: 355] Naujas maistas. Koordinates: (85, 48).
+[Tue Jun 05 12:23:43 2018] [C:\Users\Songokas\Saved Games\Snake zaidimas\main.c][line: 355] Naujas maistas. Koordinates: (122, 12).
+[Tue Jun 05 12:23:43 2018] [C:\Users\Songokas\Saved Games\Snake zaidimas\main.c][line: 355] Naujas maistas. Koordinates: (41, 11).
+[Tue Jun 05 12:23:43 2018] [C:\Users\Songokas\Saved Games\Snake zaidimas\main.c][line: 355] Naujas maistas. Koordinates: (71, 17).
+[Tue Jun 05 12:23:43 2018] [C:\Users\Songokas\Saved Games\Snake zaidimas\main.c][line: 355] Naujas maistas. Koordinates: (87, 38).
+[Tue Jun 05 12:23:43 2018] [C:\Users\Songokas\Saved Games\Snake zaidimas\main.c][line: 355] Naujas maistas. Koordinates: (32, 21).
+[Tue Jun 05 12:23:43 2018] [C:\Users\Songokas\Saved Games\Snake zaidimas\main.c][line: 355] Naujas maistas. Koordinates: (117, 14).
+[Tue Jun 05 12:23:43 2018] [C:\Users\Songokas\Saved Games\Snake zaidimas\main.c][line: 355] Naujas maistas. Koordinates: (106, 33).
+[Tue Jun 05 12:23:43 2018] [C:\Users\Songokas\Saved Games\Snake zaidimas\main.c][line: 355] Naujas maistas. Koordinates: (115, 42).
+[Tue Jun 05 12:23:43 2018] [C:\Users\Songokas\Saved Games\Snake zaidimas\main.c][line: 355] Naujas maistas. Koordinates: (109, 37).
+[Tue Jun 05 12:23:43 2018] [C:\Users\Songokas\Saved Games\Snake zaidimas\main.c][line: 630] Paspausta 4.
+[Tue Jun 05 12:23:44 2018] [C:\Users\Songokas\Saved Games\Snake zaidimas\main.c][line: 630] Paspausta w.
+[Tue Jun 05 12:23:44 2018] [C:\Users\Songokas\Saved Games\Snake zaidimas\main.c][line: 630] Paspausta w.
+[Tue Jun 05 12:23:44 2018] [C:\Users\Songokas\Saved Games\Snake zaidimas\main.c][line: 630] Paspausta d.
+[Tue Jun 05 12:23:44 2018] [C:\Users\Songokas\Saved Games\Snake zaidimas\main.c][line: 630] Paspausta d.
+[Tue Jun 05 12:23:45 2018] [C:\Users\Songokas\Saved Games\Snake zaidimas\main.c][line: 630] Paspausta w.
+[Tue Jun 05 12:23:45 2018] [C:\Users\Songokas\Saved Games\Snake zaidimas\main.c][line: 630] Paspausta w.
+[Tue Jun 05 12:23:45 2018] [C:\Users\Songokas\Saved Games\Snake zaidimas\main.c][line: 630] Paspausta a.
+[Tue Jun 05 12:23:45 2018] [C:\Users\Songokas\Saved Games\Snake zaidimas\main.c][line: 630] Paspausta a.
+[Tue Jun 05 12:23:46 2018] [C:\Users\Songokas\Saved Games\Snake zaidimas\main.c][line: 709] Gyvate atsitrenke i siena.
+[Tue Jun 05 12:23:46 2018] [C:\Users\Songokas\Saved Games\Snake zaidimas\main.c][line: 111] Nustatymai issaugoti.
+[Tue Jun 05 12:23:49 2018] [C:\Users\Songokas\Saved Games\Snake zaidimas\main.c][line: 1022] Zaidimo pabaiga.
